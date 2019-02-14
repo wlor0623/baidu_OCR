@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0"
+  }
+}
