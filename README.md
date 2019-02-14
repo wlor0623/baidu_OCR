@@ -1,4 +1,4 @@
-# 百度OCR文本识别
+# 百度OCR文本识别 API For Node.js
 
 基于nodejs 实现调用百度ocr文本识别官网接口  (仅供测试) 可识别生僻字 通用文字 包含位置信息
 
@@ -12,3 +12,5 @@
 
 * $ cnpm i 
 * $ node app.js
+
+图片上传至 http://localhost:8003 
